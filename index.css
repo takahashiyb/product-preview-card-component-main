@@ -1,3 +1,66 @@
+/* Typography: */
+
+.text-preset-one {
+  font-family: "Fraunces";
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: 0px;
+}
+
+.text-preset-two {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 110%;
+  letter-spacing: 0px;
+}
+
+.text-preset-three {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 160%;
+  letter-spacing: 0px;
+}
+
+.text-preset-four {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 120%;
+  letter-spacing: 5px;
+}
+
+.text-preset-five {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 120%;
+  letter-spacing: 0px;
+}
+
+/* Variables */
+
+:root {
+  /* Colors */
+  --color-black: rgb(28, 35, 43);
+  --color-grey: rgb(108, 114, 137);
+  --color-cream: rgb(242, 234, 226);
+  --color-white: rgb(255, 255, 255);
+  --color-green500: rgb(61, 129, 104);
+  --color-green700: rgb(26, 64, 50);
+  /* Spacing */
+  --spacing1: 4px;
+  --spacing2: 8px;
+  --spacing3: 16px;
+  --spacing4: 24px;
+  --spacing5: 32px;
+  --spacing6: 40px;
+}
+
+/* Footer */
+
 .attribution {
   font-size: 11px;
   text-align: center;
