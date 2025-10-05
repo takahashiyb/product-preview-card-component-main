@@ -169,6 +169,13 @@ header {
   }
 }
 
+@media (min-width: 1024px) {
+  .add-cart-button:hover {
+    background-color: var(--color-green700);
+    cursor: pointer;
+  }
+}
+
 /* Footer */
 
 .attribution {
