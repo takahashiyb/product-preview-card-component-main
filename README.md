@@ -59,7 +59,7 @@ To edit the image, you can style the img tag, and if you want to change the styl
 
 ### Continued development
 
-Despit knowing some parts of the @media and interactivity of websites, the challenge has made it clear to me that there are more that needs to be learned. not just with the learnings undiscovered, but solidifying strategies that already was.
+Despite knowing some parts of the @media and interactivity of websites, the challenge has made it clear to me that there are more that needs to be learned. not just with the learnings undiscovered, but solidifying strategies that already was.
 
 Still need to learn about fonts and more HTML tags
 
