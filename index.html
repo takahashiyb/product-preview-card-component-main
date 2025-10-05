@@ -36,11 +36,17 @@
   <body>
     <main class="card-component">
       <div class="cover-image-container">
-        <img
-          class="cover-image"
-          src="./images/image-product-mobile.jpg"
-          alt="cover-image"
-        />
+        <picture>
+          <source
+            srcset="./images/image-product-desktop.jpg"
+            media="(min-width: 600px)"
+          />
+          <img
+            src="./images/image-product-mobile.jpg"
+            alt="cover image"
+            class="cover-image"
+          />
+        </picture>
       </div>
       <article>
         <header>
